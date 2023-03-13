@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable-v24/ic_closepopup.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/button.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/calender_bg.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/circle_btn.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/circle_shape.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/gradient_animation.xml" value="0.1945" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/gradient_center.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/gradient_end.xml" value="0.202" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/gradient_start.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/green_grad.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.1945" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_cancel_w_24dp.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_face_black_24dp.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_free_breakfast_black_24dp.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1115" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_person_add_black_24dp.xml" value="0.1945" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/ic_settings_white_24dp.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/icon_add.xml" value="0.2165" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/drawable/side_nav_bar.xml" value="0.202" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_add_worker.xml" value="0.2" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_calender.xml" value="0.1" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_create_account.xml" value="0.25" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_main2.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_select.xml" value="0.33" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_sell_goods.xml" value="0.25" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_soon.xml" value="0.33" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_splash.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_users_list.xml" value="0.22" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/activity_worker.xml" value="0.25" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/app_bar_main.xml" value="0.33" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/content_main.xml" value="0.18" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/content_main2.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_add_worker.xml" value="0.5685997171145686" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_addemployee.xml" value="0.25" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_addworker.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_display.xml" value="0.31259720062208396" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_editemployee.xml" value="0.25" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_home.xml" value="0.3152542372881356" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_home_second.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_home_third.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_loading.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_notifications.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_select.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_select2.xml" value="0.1" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_settings.xml" value="0.5" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/fragment_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/item_user_recycler.xml" value="0.48686030428769017" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/list_item.xml" value="0.18" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/main_activity2.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/main_fragment.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/popup_register.xml" value="0.25" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/popup_successfully.xml" value="0.5" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/layout/sample_my_view.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1145" />
+        <entry key="..\:/Users/AJ/Documents/EmpMgm/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1285" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

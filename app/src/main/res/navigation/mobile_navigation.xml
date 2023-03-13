@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.srijan.empmgmt.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+
+        <action
+            app:enterAnim="@android:transition/slide_right"
+            app:exitAnim="@android:transition/slide_left"
+            app:popEnterAnim="@android:transition/slide_right"
+            app:popExitAnim="@android:transition/slide_left"
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+        <action
+            android:id="@+id/action_nav_home_to_displayEmp"
+            app:destination="@id/displayEmp"
+
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_nav_home_to_settingsPageF"
+            app:destination="@id/settingsPageF"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="com.srijan.empmgmt.ui.home.HomeFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home_second">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/displayEmp"
+        android:name="com.srijan.empmgmt.ui.displayEmployees.DisplayEmployeesFragment"
+        android:label="@string/menu_display"
+        tools:layout="@layout/fragment_display" >
+        <action
+            android:id="@+id/action_displayEmp_self"
+            app:destination="@id/displayEmp"
+            />
+        <action
+            android:id="@+id/action_displayEmp_to_dialog"
+            app:destination="@id/dialog"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsPageF"
+        android:name="com.srijan.empmgmt.ui.settingsApp.SettingsFragment"
+        android:label="@string/settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/loadingPage"
+        android:name="com.srijan.empmgmt.ui.loadingPage.MainLoad"
+        tools:layout="@layout/fragment_loading" >
+        <action
+            android:id="@+id/action_loadingPage_to_displayEmp"
+            app:destination="@id/displayEmp" />
+    </fragment>
+    <dialog
+        android:id="@+id/dialog"
+        android:name="com.srijan.empmgmt.ui.editEmployee.EditEmployee"
+        tools:layout="@layout/fragment_editemployee" >
+        <action
+            android:id="@+id/action_dialog_to_displayEmp"
+            app:destination="@id/displayEmp"
+            />
+    </dialog>
+
+</navigation>

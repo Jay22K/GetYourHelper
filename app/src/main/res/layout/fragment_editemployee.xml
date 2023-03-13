@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colourBackground"
+    tools:context=".ui.editEmployee.EditEmployee">
+
+
+    <LinearLayout
+        android:id="@+id/llAdd"
+        android:layout_width="357dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="262dp"
+        android:background="@color/colourBackground"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.452"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:context=".ui.home.HomeFragment">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/abril_fatface"
+            android:text="Worker Information"
+            android:textColor="@color/colorGradientCenter"
+            android:textSize="34sp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <TextView
+            android:id="@+id/_id"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="0dp"
+            android:autofillHints="ID"
+            android:background="#FFFFFF"
+            android:backgroundTint="#BBBBBB"
+            android:backgroundTintMode="multiply"
+            android:ems="10"
+            android:fontFamily="@font/roboto_condensed_light"
+            android:gravity="start"
+            android:inputType="number"
+            android:textSize="18sp"
+            android:visibility="invisible" />
+
+        <EditText
+            android:id="@+id/fname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:autofillHints="First Name"
+            android:ems="10"
+            android:fontFamily="@font/roboto_condensed_light"
+            android:hint="First Name"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/lname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:autofillHints="Last Name"
+            android:ems="10"
+            android:fontFamily="@font/roboto_condensed_light"
+            android:hint="Last Name"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:autofillHints="Address"
+            android:ems="10"
+            android:fontFamily="@font/roboto_condensed_light"
+            android:hint="Address"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/field"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:autofillHints="Field"
+            android:ems="10"
+            android:fontFamily="@font/roboto_condensed_light"
+            android:hint="Field"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:autofillHints="Title"
+            android:ems="10"
+            android:fontFamily="@font/roboto_condensed_light"
+            android:hint="Title"
+            android:inputType="textPersonName"
+            app:layout_constraintEnd_toEndOf="parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/colourBackground"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/llAdd"
+        tools:context=".ui.home.HomeFragment">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
+                android:id="@+id/save"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_margin="15dp"
+                android:background="@drawable/icon_save"
+                android:elevation="5dp"
+                android:includeFontPadding="true"
+                android:padding="15dp"
+                android:textColor="#FFFFFF"
+                app:spinning_bar_color="#FFF"
+                app:spinning_bar_padding="-2dp"
+                app:spinning_bar_width="2dp" />
+
+            <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
+                android:id="@+id/cancel"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_margin="15dp"
+
+                android:background="@drawable/icon_cancel"
+                android:elevation="5dp"
+                android:padding="15dp"
+                android:textColor="#FFFFFF"
+                app:spinning_bar_color="#1DE9B6"
+                app:spinning_bar_padding="2dp"
+                app:spinning_bar_width="2dp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

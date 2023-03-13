@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GetYourHelper</string>
+    <string name="nav_header_title">Get Your Helper</string>
+    <string name="nav_header_subtitle">created for workers to help</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_login">Login</string>
+    <string name="home_second">Home</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_addEmp">Add Worker</string>
+    <string name="menu_display">Display Worker</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="no_emp">No worker added</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_add_worker">AddWorkerActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

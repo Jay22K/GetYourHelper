@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#262c50</color>
+    <color name="colorAccent">#4e596f</color>
+    <color name="colourBackground">#E1E2E1</color>
+    <color name="colorCardBackground">#EAEBEA</color>
+    <color name="colorGradientStart">#ff5722</color>
+    <color name="colorGradientCenter">#FF342D</color>
+    <color name="colorGradientEnd">#FF1C3D</color>
+    <color name="lightgray">#ededed</color>
+    <color name="teal">#10a28f</color>
+    <color name="darkblue">#23283a</color>
+</resources>
