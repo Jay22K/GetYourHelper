@@ -33,7 +33,7 @@ here is a Demo apk
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./screenshot/1.jpg)
 
 
 ## Tech Stack
