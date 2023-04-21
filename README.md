@@ -34,15 +34,15 @@ here is a Demo apk
 ## Screenshots
 
 
-<img scr="./screenshot/1.jpg" hight="700" >
-<img scr="./screenshot/2.jpg" hight="700" >
-<img scr="./screenshot/3.jpg" hight="700" >
-<img scr="./screenshot/4.jpg" hight="700" >
-<img scr="./screenshot/5.jpg" hight="700" >
-<img scr="./screenshot/6.jpg" hight="700" >
-<img scr="./screenshot/7.jpg" hight="700" >
-<img scr="./screenshot/8.jpg" hight="700" >
-<img scr="./screenshot/9.jpg" hight="700" >
+<img scr="/screenshot/1.jpg" hight="700" >
+<img scr="/screenshot/2.jpg" hight="700" >
+<img scr="/screenshot/3.jpg" hight="700" >
+<img scr="/screenshot/4.jpg" hight="700" >
+<img scr="/screenshot/5.jpg" hight="700" >
+<img scr="/screenshot/6.jpg" hight="700" >
+<img scr="/screenshot/7.jpg" hight="700" >
+<img scr="/screenshot/8.jpg" hight="700" >
+<img scr="/screenshot/9.jpg" hight="700" >
 
 
 
