@@ -34,34 +34,36 @@ here is a Demo apk
 ## Screenshots
 
 <table>
-<tr>
-    <td valign="top"><img src="screenshot/1.jpg
-    " width="250" alt="Welcome Page">
-    </td>
-    <td valign="top"><img src="screenshot/2.jpg
-    " width="250" alt="Welcome Page">
-    </td>
-    <td valign="top"><img src="screenshot/3.jpg
-    " width="250" alt="Welcome Page">
-    </td>
-    <td valign="top"><img src="screenshot/4.jpg
-    " width="250" alt="Welcome Page">
-    </td>
-    <td valign="top"><img src="screenshot/5.jpg
-    " width="250" alt="Welcome Page">
-    </td>
-    <td valign="top"><img src="screenshot/6.jpg
-    " width="250" alt="Welcome Page">
-    </td>
-    <td valign="top"><img src="screenshot/7.jpg
-    " width="250" alt="Welcome Page">
-    </td>
-    <td valign="top"><img src="screenshot/8.jpg
-    " width="250" alt="Welcome Page">
-    </td>
-    
+<!--   <tr>
+    <td>Welcome Page</td>
+     <td>Login Page</td>
+     <td>Sign Up Page</td>
+     
+  </tr> -->
+  <tr>
+    <td valign="top"><img src="screenshot/1.jpg" width="250" alt="Welcome Page"></td>
+    <td valign="top"><img src="screenshot/2.jpg" width="250" alt="Login Page"></td>
+    <td valign="top"><img src="screenshot/3.jpg" width="250" alt="Sign Up Page"></td>
   </tr>
-</table>
+<!--   <tr>
+    <td>Personality Page</td>
+    <td>Lifestyle Page</td>
+    <td>Home Page</td>
+  </tr> -->
+  <tr>
+    <td valign="top"><img src="screenshot/4.jpg" width="250" alt="Personality Page"></td>
+    <td valign="top"><img src="screenshot/5.jpg" width="250" alt="Lifestyle Page"></td>
+    <td valign="top"><img src="screenshot/6.jpg" width="250" alt="Home Page"></td>
+  </tr>
+<!--   <tr>
+    <td>Finding Matches Page</td>
+     <td>Chat Page</td>
+  </tr> -->
+  <tr>
+    <td valign="top"><img src="screenshot/7.jpg" width="250" alt="Finding Matches Page"></td>
+    <td valign="top"><img src="screenshot/8.jpg" width="250" alt="login"></td>
+  </tr>
+ </table>
 
 
 
